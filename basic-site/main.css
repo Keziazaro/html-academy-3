@@ -1,0 +1,89 @@
+body{
+   margin:60px;
+
+}
+
+.logo{
+	width:60%;
+	height:70px;
+   text-align: center;
+   color:white;
+   background-color:black;
+   float:left;
+   border:2px solid lightgrey;
+   margin-bottom:3%;
+
+}
+
+.number{
+	width: 35%;
+	height:70px;
+	color:white;
+	background-color:black;
+	border:2px solid lightgrey;
+	float:right;
+	text-align: center;
+	margin-bottom: 3%;
+    
+
+}
+
+.our-company{
+  border:2px solid lightgrey;
+  margin-bottom:3%;
+  float: left;
+  width:60%;
+  min-height:300px;
+
+
+
+}
+
+.about-us{
+  float:right;
+  border:2px solid lightgrey;
+  width:35%;
+  height:150px;
+  margin-bottom:3%;
+
+  
+  
+
+
+
+}
+
+.footer{
+     color:white;
+     background-color:black;
+     border:2px solid lightgrey;
+	 clear:both;
+
+}
+
+.about-us p{
+   margin-top:35px;
+   margin-left:20px;
+   font-size:20px;
+
+}
+
+.our-company h1{
+  margin-left:35px;
+
+}
+
+.our-company p{
+
+   margin-left:35px;
+   font-size: 25px;
+   max-width:450px;
+
+
+  
+
+}
+
+.footer h3{
+	margin-left:40px;
+}
